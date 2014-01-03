@@ -3,7 +3,7 @@ package com.mongotest;
 import java.io.Serializable;
 
 import com.google.gson.annotations.SerializedName;
-
+//new code
 public class Parent {
 		@SerializedName("empID")
 	    private static final long serialVersionUID = 1L;
